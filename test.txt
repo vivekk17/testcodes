@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 0419-A574
+
+ Directory of C:\Users\Vkumar39\Contacts\Desktop\Udacity Projects\testgit
+
+01/17/2018  12:39 PM    <DIR>          .
+01/17/2018  12:39 PM    <DIR>          ..
+01/17/2018  12:39 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  208,812,085,248 bytes free
